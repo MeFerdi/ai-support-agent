@@ -1,5 +1,3 @@
-# Lives inside the project folder so it works unchanged once this project is
-# split into its own repository (it is inert while nested in the monorepo).
 name: ci
 
 on:
